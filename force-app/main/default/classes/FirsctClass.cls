@@ -3,6 +3,8 @@ public with sharing class FirsctClass {
         String name = 'Fati';
         Integer age = 25;
         String lastName = 'khayat';
+        //test
+        
 
     }
     public String generateEmail(){
